@@ -35,3 +35,11 @@
         margin-left: 20%;
         margin-right:auto;
       }
+
+      .thumbnails h3, .thumbnails p{
+        text-align: center;
+      }
+
+      .thumbnail {
+        border: 0px;
+        }
