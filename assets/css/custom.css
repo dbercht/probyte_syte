@@ -26,6 +26,11 @@
         margin-right:auto;
       }
 
+
+      .carousel{
+        background: #eee;
+      }
+
       .carousel-caption h4, .carousel-caption p{
         margin-left: 20%;
         margin-right:auto;
