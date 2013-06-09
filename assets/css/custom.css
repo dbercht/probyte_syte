@@ -2,6 +2,11 @@
   min-height: 100px;
 }
 
+body {
+  padding-top: 80px;
+  position: relative;
+}
+
       /* Set the fixed height of the footer here */
       #push,
       #footer {
@@ -20,6 +25,7 @@
           padding-right: 20px;
         }
       }
+
 
       .carousel-inner .item img {
         margin-left:auto;
@@ -43,3 +49,8 @@
       .thumbnail {
         border: 0px;
         }
+
+      .pb_desc {
+        height: 800px;
+      }
+
