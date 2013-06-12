@@ -1,3 +1,4 @@
+
 .pb_main_tb{
   min-height: 100px;
 }
@@ -35,6 +36,10 @@ body {
 
       .carousel{
         background: #eee;
+      }
+
+      .carousel-indicators {
+        margin-right: 50%;
       }
 
       .carousel-caption h4, .carousel-caption p{
